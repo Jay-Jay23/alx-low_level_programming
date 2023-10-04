@@ -21,3 +21,4 @@ char *_strdup(char *str)
 
 	if (aaa == NULL)
 		return (NULL);
+}
